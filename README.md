@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+# C41
 Boiler plate for p5.play
